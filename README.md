@@ -1,2 +1,6 @@
-
-
+![Aplicação funcionando](images/Screenshot (17).png)
+![Aplicação funcionando](images/Screenshot (18).png)
+![Aplicação funcionando](images/Screenshot (19).png)
+![Aplicação funcionando](images/Screenshot (20).png)
+![Aplicação funcionando](images/Screenshot (21).png)
+![Aplicação funcionando](images/Screenshot (22).png)
